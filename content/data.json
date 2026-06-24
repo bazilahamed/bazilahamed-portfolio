@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "name": "Ahamed Bazil",
+    "title": "Cybersecurity Professional",
+    "tagline": "Cloud Security • Network Defense • Infrastructure Protection",
+    "bio": "Cybersecurity & Networking Team Leader with extensive experience defending enterprise infrastructure across Bahrain and beyond. I don't just secure networks — I architect resilience.",
+    "location": "Bahrain",
+    "email": "ahamedbazil70@gmail.com",
+    "phone": "+973 3451 0369",
+    "linkedin": "https://www.linkedin.com/in/ahamed-bazil-mn",
+    "github": "",
+    "resumeUrl": "",
+    "profileImage": ""
+  },
+  "skills": [
+    { "id": "1", "icon": "☁️", "title": "Cloud Security Architecture", "description": "Designing and implementing secure cloud environments across Azure, AWS, and Oracle Cloud with focus on identity management and compliance.", "technologies": ["Azure", "AWS", "Oracle Cloud", "Azure AD", "IAM"] },
+    { "id": "2", "icon": "🛡️", "title": "Advanced Threat Detection", "description": "Deploying SIEM, EDR/XDR, and NDR solutions to identify and neutralize security threats before they impact business operations.", "technologies": ["SIEM", "EDR/XDR", "Kaspersky", "Symantec", "Sophos"] },
+    { "id": "3", "icon": "🌐", "title": "Enterprise Networking", "description": "Managing complex network infrastructures with firewalls, VPNs, and load balancers ensuring optimal performance and security.", "technologies": ["FortiGate", "Sophos", "VPN", "Load Balancers", "CCNP"] },
+    { "id": "4", "icon": "🔒", "title": "Compliance & Governance", "description": "Implementing robust access controls, audit frameworks, and compliance measures to meet regulatory requirements.", "technologies": ["Netwrix", "DLP", "Audit Logging", "CISSP", "Risk Management"] },
+    { "id": "5", "icon": "⚡", "title": "Incident Response", "description": "Rapid threat assessment and mitigation with comprehensive disaster recovery and business continuity planning.", "technologies": ["IDR", "DRP", "Forensics", "Backup Management", "BCP"] },
+    { "id": "6", "icon": "🎯", "title": "Vulnerability Management", "description": "Proactive security through regular assessments, penetration testing, and systematic patch management processes.", "technologies": ["VA/VC", "Patch Management", "System Hardening", "Pentesting"] }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Enterprise Network Security Overhaul",
+      "description": "Complete redesign of enterprise network security infrastructure with FortiGate firewalls, VPN tunnels, and SIEM integration.",
+      "image": "",
+      "tags": ["FortiGate", "SIEM", "VPN", "Network Security"],
+      "link": ""
+    },
+    {
+      "id": "2",
+      "title": "Azure Cloud Security Implementation",
+      "description": "Deployed and hardened Microsoft Azure environment including Azure AD, Intune MDM, and conditional access policies for 200+ users.",
+      "image": "",
+      "tags": ["Azure", "Azure AD", "Intune", "Cloud Security"],
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Team Leader - Cybersecurity & Networking",
+      "company": "Veuz Concepts Company",
+      "location": "Bahrain",
+      "period": "December 2022 - Present",
+      "description": "Leading cybersecurity and networking initiatives across cloud and on-premises environments. Responsible for designing secure, scalable infrastructure, implementing advanced threat detection solutions, and managing enterprise IT systems.",
+      "achievements": [
+        "Lead cybersecurity and networking initiatives across cloud and on-premises environments, ensuring availability, security, and compliance",
+        "Design, implement, and manage Microsoft Azure environments, including Azure Entra ID (Azure AD), Intune, and cloud identity controls",
+        "Administer Microsoft 365 and Google Workspace, including access management, security policies, and tenant hardening",
+        "Implement and manage network security solutions including Sophos and FortiGate Firewalls",
+        "Configure, monitor, and maintain IPSec Site-to-Site VPNs for secure communication between networks",
+        "Manage enterprise network infrastructure (routers, switches, firewalls, load balancers, VPNs)",
+        "Oversee endpoint security and EDR/XDR solutions including Kaspersky, Symantec, and Sophos",
+        "Perform Vulnerability Assessment and Scanning (VA/VC) to identify and mitigate security risks",
+        "Deploy and manage SIEM, NDR, IDR, and DRP solutions to enhance threat visibility and response",
+        "Secure and manage Odoo ERP servers, ensuring performance, data integrity, and security best practices"
+      ]
+    }
+  ],
+  "certifications": [
+    { "id": "1", "name": "AWS Solution Architect", "icon": "🏆", "category": "Cloud", "image": "" },
+    { "id": "2", "name": "IBM Cybersecurity Analyst Assessment", "icon": "🔒", "category": "Security", "image": "" },
+    { "id": "3", "name": "Fundamentals of Red Hat Enterprise Linux", "icon": "🐧", "category": "Systems", "image": "" },
+    { "id": "4", "name": "Introduction of Ethical Hacking", "icon": "🎯", "category": "Security", "image": "" },
+    { "id": "5", "name": "CISSP: Security and Risk Management", "icon": "🛡️", "category": "Security", "image": "" },
+    { "id": "6", "name": "Generic Online Technology in Cyber Security", "icon": "💻", "category": "Security", "image": "" },
+    { "id": "7", "name": "Introduction to Cybersecurity Tools & Cyber Attacks", "icon": "⚔️", "category": "Security", "image": "" },
+    { "id": "8", "name": "AWS Educate Introduction to Cloud 101", "icon": "☁️", "category": "Cloud", "image": "" },
+    { "id": "9", "name": "CISSP: Communication and Network Security", "icon": "📡", "category": "Network", "image": "" },
+    { "id": "10", "name": "CISSP: Security Architecture and Engineering", "icon": "🏗️", "category": "Architecture", "image": "" },
+    { "id": "11", "name": "CCNP", "icon": "🌐", "category": "Network", "image": "" }
+  ]
+}
